@@ -1,4 +1,5 @@
-# Statistical learning project
+# Statistical learning portfolio project
+
 
 This repository contains some Python/Jupyter notebooks and Python files I wrote for the data set by Debernardi et al. (2020) with urinary biomarkers and cancer status labels.
 
